@@ -2,8 +2,8 @@
 Apex Legends MuptelalemTTV's Config
 
 
-			                  //			      Apex Legends			//
-			              //	     		Muptelalemttv's Config			//
+			//		  Apex Legends			//
+			//	     Muptelalemttv's Config		//
 
 
 	Autoexec
