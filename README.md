@@ -39,3 +39,31 @@ Steam'i açtıktan sonra sol taraf kütüphane'den Apex Legends'a sağ tıklayı
 Genel sekmesinde Başlatma Seçenekleri satırına aşağıda ki kodları kopyalayıp yapıştırıyoruz.
 
 +exec autoexec -refresh 144 +fps_max 144 -forcenovsync -high -preload -dev -64bit -dxlevel 95 -console
+
+
+
+	V - Sync
+	
+Oyunun kurulu olduğu dizine gidip r5apex.exe dosyasına sağ tıklayıp özellikler dedikten sonra açılan pencerede Uyumluluk sekmesine tıklıyoruz.
+
+Tam ekran iyileştirmelerini devre dışı bırak seçeneğine tik koyuyoruz.
+
+Aşağıda Yüksek DPI ayarlarını değiştir butonuna tıklıyoruz.
+
+Açılan pencerede Yüksek DPI ölçeklendirme davranışını geçersiz kıl seçeneğine tik koyuyoruz.
+
+Uygula Tamam diyoruz.
+
+
+
+	Windows Grafik Ayarları
+	
+Başlat'a Grafik yazıp Grafik Ayarlarına giriyoruz.
+
+Gözat butonuna tıklayarak oyunun kurulu olduğu dizine gidip r5apex.exe dosyasını seçiyoruz.
+
+Grafik ayarlarında Gözat butonunun altına Apex Legends ayarları geliyor.
+
+Buradan Apex Legends butonuna tıklayıp seçenekler diyoruz.
+
+Yüksek performans ekran kartımızı seçip tamam diyoruz.
