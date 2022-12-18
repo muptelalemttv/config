@@ -6,12 +6,6 @@ Apex Legends MuptelalemTTV's Config
 			//	     Muptelalemttv's Config		//
 
 
-	Autoexec
-
-autoexec.cfg dosyasını kopyalayıp, oyunun kurulu olduğu dizine, cfg klasörüne ve cfg klasörü içindeki client klasörüne yapıştır. 
-
-(Yani autoexec.cfg 3 yerde de olacak)
-
 
 
 	Videoconfig
@@ -28,7 +22,7 @@ Açılan pencerede sağ üst tarafta "Advanced Launch Options" sekmesine tıklay
 
 "Command Line Arguments" satırına aşağıdaki kodları kopyalayıp "Ctrl + V" tuş kombinasyonunu kullanarak yapıştırıyoruz.
 
-+exec autoexec -refresh 144 +fps_max 144 -forcenovsync -high -preload -dev -64bit -dxlevel 95 -console
+-refresh 144 +fps_max 141 -forcenovsync -high -preload -dev -64bit -dxlevel 95 -console
 
 
 
@@ -38,7 +32,7 @@ Steam'i açtıktan sonra sol taraf kütüphane'den Apex Legends'a sağ tıklayı
 
 Genel sekmesinde Başlatma Seçenekleri satırına aşağıda ki kodları kopyalayıp yapıştırıyoruz.
 
-+exec autoexec -refresh 144 +fps_max 144 -forcenovsync -high -preload -dev -64bit -dxlevel 95 -console
+-refresh 144 +fps_max 141 -forcenovsync -high -preload -dev -64bit -dxlevel 95 -console
 
 
 
