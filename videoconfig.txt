@@ -58,3 +58,6 @@
 	"setting.mat_bumpmap" 	"0"
 	"setting.configversion"		"7"
 }
+
+
+		//	Created By Muptelalem | Twitch	   //
